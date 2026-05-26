@@ -1,0 +1,26 @@
+# 压缩包
+*.zip
+*.gz
+*.tar
+*.rar
+*.7z
+*.bz2
+*.xz
+*.tgz
+*.tar.gz
+*.tar.bz2
+*.tar.xz
+
+# LaTeX 编译产物
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.synctex
+*.fdb_latexmk
+*.fls
+*.bbl
+*.blg
+*.bcf
+*.run.xml
