@@ -13,9 +13,10 @@
 ├── 计算机网络课程设计报告.tex         # 课程设计报告（LaTeX 源码）
 ├── 计算机网络课程设计报告.pdf         # 课程设计报告（PDF）
 ├── 计算机网络课程设计_题目3.pkt       # Packet Tracer 仿真文件
-├── fig1-topology.png                  # 网络拓扑图
-├── fig2-test1.png ~ fig6-test5.png    # 测试截图
-├── tongji.png                         # 学院统计信息图
+├── figures/                           # 图片资源
+│   ├── fig1-topology.png              # 网络拓扑图
+│   ├── fig2-test1.png ~ fig6-test5.png# 测试截图
+│   └── tongji.png                     # 学院统计信息图
 ├── webpage/                           # 学院网站原型
 │   ├── index.html                     # 首页
 │   ├── teaching.html                  # 教学平台
