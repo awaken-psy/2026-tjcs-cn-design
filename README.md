@@ -37,6 +37,11 @@
 - **报告**：LaTeX / Markdown
 - **网站**：HTML + CSS
 
+## 参考项目
+
+- [TongjiCS-Undergraduate-Courses](https://github.com/ZhengBryan/TongjiCS-Undergraduate-Courses)
+- [Tongji-CS-Assignments](https://github.com/Nozom1466/Tongji-CS-Assignments)
+
 ## 许可证
 
 [MIT](LICENSE)
